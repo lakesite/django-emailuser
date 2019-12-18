@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "662f13f5088fc3011f532aaabf75361f37012d17b945252ccb8a9fe2a123094a"
+            "sha256": "f340e7f062f86d0113177975634993ec6137b992ea7f6be3a492b3c609a1df3c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +23,11 @@
             ],
             "index": "pypi",
             "version": "==2.2.8"
+        },
+        "django-emailuser": {
+            "editable": true,
+            "git": "https://github.com/lakesite/django-emailuser",
+            "ref": "a8913c735d70f6e833d4937fc11e702861bd4871"
         },
         "pytz": {
             "hashes": [

@@ -6,7 +6,7 @@ from .forms import UserCreationForm, UserChangeForm
 from .models import User
 
 
-class UserAdmin(django.contrib.auth.admin.UserAdmin)):
+class UserAdmin(django.contrib.auth.admin.UserAdmin):
     add_form = UserCreationForm
     form = UserChangeForm
     model = User
