@@ -24,10 +24,6 @@ For installation, please see [install](docs/install.md)
 
 To run locally and develop, see [development.md](docs/development.md)
 
-## license ##
-
-MIT - See [LICENSE.md](LICENSE.md)
-
 ## contributing ##
 
 Please review [standards](docs/standards.md) before submitting issues and pull requests.  Thank you in advance for feedback, criticism, and feature requests.
@@ -36,6 +32,6 @@ Please review [standards](docs/standards.md) before submitting issues and pull r
 
 A full example is provided [here](example_project)
 
-## License ##
+## license ##
 
-MIT
+MIT - See [LICENSE.md](LICENSE.md)
