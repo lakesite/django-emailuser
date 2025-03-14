@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-emailuser',
-    version='0.1',
+    version='0.2',
     description='Use an email address in place of a username in Django.',
     packages=find_packages(),
     zip_safe=False,
